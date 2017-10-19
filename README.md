@@ -1,2 +1,6 @@
 # hello-world
-First Repository on github
+Hi Guys, 
+
+First Branch from master
+
+Coool
